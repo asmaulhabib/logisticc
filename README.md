@@ -1,0 +1,2 @@
+# logisticc
+tutorial membuat fragmant
